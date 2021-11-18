@@ -12,7 +12,7 @@
 ## 🤝🏻 To reach me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedro-olimpio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Felipe%20Rocha-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vs35@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vs35@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pedro-olimpio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Olimpio-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vs35@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vs35@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
 </p>
 
